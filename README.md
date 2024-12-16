@@ -1,6 +1,5 @@
 # fizz buzz
 
-## Features
 
 ### Fizbuzz
 
